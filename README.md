@@ -2,10 +2,10 @@
 Covid Project
 
 The main objectives of this project is to:-
-predict future Covid cases/deaths in a 30-60day timeframe using a logistic regression model;
-perform a high level analysis of the relationship between social distancing worldwide and in Hong Kong.
+predict future Covid cases/deaths in a 30-60day timeframe using a logistic regression model;  
+perform a high level analysis of the relationship between social distancing worldwide and in Hong Kong.  
 
-Datasets
+Datasets  
 Throughout this project, I mainly used datasets from 2 sources. The first, being the John Hopkins University time-series Covid dataset, shows Covid cases and deaths by countries and regions over time. This dataset is prepared by John Hopkins University, a reputable medical school in the US. Please also note that John Hopkins has ceased to update their dataset as of 10 March 2023, as such, all the data show in Tab 1 (“1.Covid_Projection”) are only updated to that date. 
 
 The second data set, being the Facebook mobility dataset, is prepared by Facebook through the collection of anonymised location data from its users. The dataset is made available to the public to assist public health researchers to better understand the effectiveness of social distancing on controlling the Covid outbreak. The Facebook mobility dataset includes an index developed by Facebook to track the average movement trends of its users in a country/region over time. A higher mobility index means that the Facebook users in that particular region are locationally more active (i.e., travelling more) and practices less social distancing measures (and vice versa).
