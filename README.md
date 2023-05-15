@@ -2,7 +2,7 @@
 Covid Project
 
 The main objectives of this project is to:-  
-predict future Covid cases/deaths in a 30-60day timeframe using a logistic regression model;  
+predict future Covid cases/deaths in a 30-60day timeframe using a logistic regression model; and  
 perform a high level analysis of the relationship between social distancing worldwide and in Hong Kong.  
 
 Datasets  
